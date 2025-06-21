@@ -36,7 +36,9 @@ Display custom post types:
 
 ## Resources
 📦 [Plugin page on WordPress.org](https://wordpress.org/plugins/wp-sitemap-page/)
+
 🧑‍💻 Developed by [Tony Archambeau](https://tonyarchambeau.com/)
+
 📂 [GitHub repository](https://github.com/TonyArchambeau/wp-sitemap-page)
 
 ## License
